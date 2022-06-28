@@ -6,8 +6,6 @@
 
 ![example](https://mdn.mozillademos.org/files/10529/inspector.png)
 
-#### Description of your project
-
 ## Table of content
 
 - [**Getting Started**](#getting-started)
