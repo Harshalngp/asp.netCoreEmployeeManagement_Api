@@ -6,6 +6,8 @@
 
 ![example](https://mdn.mozillademos.org/files/10529/inspector.png)
 
+##### This asp.net core web API project have Employee Controller and services classes with interfaces. This project API endpoints have Create an Employee, get all employees, get an employee by ID, delete employee and update an employee.
+
 ## Table of content
 
 - [**Getting Started**](#getting-started)
