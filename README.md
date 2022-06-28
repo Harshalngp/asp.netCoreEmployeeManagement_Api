@@ -9,5 +9,5 @@
 ##### This asp.net core web API project have Employee Controller and services classes with interfaces. This project API endpoints have Create an Employee, get all employees, get an employee by ID, delete employee and update an employee.
 
 ## Get Help
-- Contact me on my-email@email.com
+- Contact me on harshalhiwarkar01@gmail.com
 - If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
