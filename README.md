@@ -4,7 +4,8 @@
 ![Code Coverage](https://img.shields.io/badge/coverage-90%25-green)
 ![.Net Version](https://img.shields.io/badge/.net-v3.1.420-blue.svg)
 
-![example](https://mdn.mozillademos.org/files/10529/inspector.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/46785329/176117466-4981256a-9ea3-4ad5-a167-1313610de52b.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/46785329/176117500-266c1794-4392-4edb-a23b-f6f4fb9734a1.png)
 
 ##### This asp.net core web API project have Employee Controller and services classes with interfaces. This project API endpoints have Create an Employee, get all employees, get an employee by ID, delete employee and update an employee.
 
