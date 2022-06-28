@@ -2,7 +2,7 @@
 
 ![Github License](https://img.shields.io/badge/license-MIT-green)
 ![Code Coverage](https://img.shields.io/badge/coverage-90%25-green)
-![.Net Version](https://img.shields.io/badge/react-v3.1.420-blue.svg)
+![.Net Version](https://img.shields.io/badge/.net-v3.1.420-blue.svg)
 
 ![example](https://mdn.mozillademos.org/files/10529/inspector.png)
 
