@@ -10,4 +10,4 @@
 
 ## Get Help
 - Contact me on harshalhiwarkar01@gmail.com
-- If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
+- If appropriate, [open an issue](https://github.com/Harshalngp/asp.netCoreEmployeeManagement_Api/issues) on GitHub
